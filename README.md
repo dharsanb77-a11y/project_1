@@ -1,3 +1,4 @@
 # project_1
 I have learnt html course and done my first project using html which is student registration form for workshop which includes their name,department,year of engineering,college, and workshop date and fee details where I have added logo for my webpage form and changed the background colour of the form and fee details for workshop are displayed using Html Table.This project helped me strengthen my understanding of HTML Structure and increased my curiosity for further web development since I know only html, I plan to improve this project further by learning CSS and Javascript in the future
-This is My Project:https://dharsanb77-a11y.github.io/project_1/
+This is My Project:
+https://dharsanb77-a11y.github.io/project_1/
